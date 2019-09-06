@@ -1,0 +1,2 @@
+# panic.js
+Panic Button
